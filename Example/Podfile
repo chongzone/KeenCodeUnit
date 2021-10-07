@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'KeenCodeUnit_Example' do
+  pod 'KeenCodeUnit', :path => '../'
+
+  target 'KeenCodeUnit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
