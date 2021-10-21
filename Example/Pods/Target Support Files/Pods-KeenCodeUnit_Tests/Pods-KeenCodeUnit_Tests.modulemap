@@ -1,0 +1,6 @@
+framework module Pods_KeenCodeUnit_Tests {
+  umbrella header "Pods-KeenCodeUnit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

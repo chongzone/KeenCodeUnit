@@ -1,0 +1,16 @@
+PODS:
+  - KeenCodeUnit (1.0.0)
+
+DEPENDENCIES:
+  - KeenCodeUnit (from `../`)
+
+EXTERNAL SOURCES:
+  KeenCodeUnit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KeenCodeUnit: 3f8009b373fa72307a6c0b4c56006b6b898b9838
+
+PODFILE CHECKSUM: d2bee6fc7211d242b77689462b0b733a08d38795
+
+COCOAPODS: 1.7.0
