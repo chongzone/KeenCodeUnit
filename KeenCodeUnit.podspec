@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name          = 'KeenCodeUnit'
-  s.version       = '1.0.1'
+  s.version       = '1.0.2'
   s.summary       = '高度自定义的验证码、支付密码输入文本框，支持明文、密文输入等'
   s.homepage      = 'https://github.com/chongzone/KeenCodeUnit'
   s.license       = { :type => 'MIT', :file => 'LICENSE' }
