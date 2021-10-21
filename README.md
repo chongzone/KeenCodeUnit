@@ -10,12 +10,12 @@
 
 样式说明 | Gif 图 |
 ----|------|
-分割的下划线 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_01.gif" width="320" height="95">
-<img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_02.gif" width="320" height="95">
-<img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_03.gif" width="320" height="95"> |
-分割的边框 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_04.gif" width="320" height="95">
-<img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_05.gif" width="320" height="95"> |
-连续的边框 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_06.gif" width="320" height="95">
+分割下划线 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_01.gif" width="310" height="95"> |
+分割下划线2 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_02.gif" width="310" height="95"> |
+分割下划线密文 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_03.gif" width="310" height="95"> |
+分割边框 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_04.gif" width="310" height="95"> |
+分割边框2 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_05.gif" width="310" height="95"> |
+连续边框 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_06.gif" width="310" height="95"> |
 
 ## API 说明
 
