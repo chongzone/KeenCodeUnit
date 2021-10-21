@@ -19,6 +19,15 @@ class ViewController: UITableViewController {
             UITableViewCell.self,
             forCellReuseIdentifier: UITableViewCell.className
         )
+        
+        if #available(iOS 13.0, *) {
+            let appearance = UINavigationBarAppearance()
+            appearance.backgroundColor = .white
+            navigationController?.navigationBar.scrollEdgeAppearance = appearance
+            navigationController?.navigationBar.standardAppearance = appearance
+        }else {
+            // Fallback on earlier versions
+        }
     }
 
     override func numberOfSections(in tableView: UITableView) -> Int { 1 }

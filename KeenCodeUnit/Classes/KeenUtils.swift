@@ -53,17 +53,6 @@ extension CGFloat {
     public static var screenHeight: CGFloat { UIScreen.main.bounds.size.height }
 }
 
-extension UIColor {
-    
-    /// 随机色 用于调试等
-    public static var colorRandom: UIColor {
-        let red   = CGFloat(arc4random()%256)/255.0
-        let green = CGFloat(arc4random()%256)/255.0
-        let blue  = CGFloat(arc4random()%256)/255.0
-        return UIColor(red: red, green: green, blue: blue, alpha: 1.0)
-    }
-}
-
 extension UIView {
     
     /// 初始化
