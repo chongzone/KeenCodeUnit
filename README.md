@@ -2,8 +2,8 @@
 
 ![CI Status](https://img.shields.io/travis/chongzone/KeenCodeUnit.svg?style=flat)
 ![](https://img.shields.io/badge/swift-5.0%2B-orange.svg?style=flat)
-![](https://img.shields.io/badge/pod-v1.0.2-brightgreen.svg?style=flat)
-![](https://img.shields.io/badge/platform-iOS-orange.svg?style=flat)
+![](https://img.shields.io/badge/pod-v1.0.3-brightgreen.svg?style=flat)
+![](https://img.shields.io/badge/platform-iOS9.0%2B-orange.svg?style=flat)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## 效果样式 
@@ -11,11 +11,11 @@
 样式说明 | Gif 图 |
 ----|------|
 下划线 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_01.gif" width="330" height="95"> |
-下划线2 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_02.gif" width="330" height="95"> |
-下划线密文 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_03.gif" width="330" height="95"> |
-边框 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_04.gif" width="330" height="95"> |
-边框2 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_05.gif" width="330" height="95"> |
-边框3 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_06.gif" width="330" height="95"> |
+下划线2 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_02.gif" width="318" height="97"> |
+下划线密文 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_03.gif" width="318" height="97"> |
+边框 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_04.gif" width="318" height="97"> |
+边框2 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_05.gif" width="318" height="97"> |
+边框3 |  <img src="https://raw.githubusercontent.com/chongzone/KeenCodeUnit/master/Resources/KeenCode_06.gif" width="318" height="97"> |
 
 ## API 说明
 
